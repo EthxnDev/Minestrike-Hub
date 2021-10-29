@@ -1,3 +1,4 @@
 # Minestrike-Hub
-
-## Made by PceLmao for MineStrike Network
+Made by PceLmao for MineStrike Network
+#Languages:
+Java
